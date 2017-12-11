@@ -1,0 +1,13 @@
+Why programmers need GitHub?
+
+The programmers use GitHub in order to:
+1. Create private portfolio for future job applications
+2. Upload created codes in order to share with friends, engineers, developers and professionals
+3. Get feedback from them
+4. Get help from them
+5. Get an idea of wrong parts and issues
+6. Work together on one project effectively
+7. Access the needed files from anywhere using internet, therefore no need for any hard drives or flash cards.
+8. Download the needed codes for the projects you work on
+
+In my opinion, considering the information that I have got, above listed points are the main reasons why programmers need and use GitHub Open Source Code network.
